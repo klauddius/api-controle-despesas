@@ -1,4 +1,4 @@
-package br.com.klauddius.ctrldspsas.apicontroledespesas;
+package br.com.klauddius.apicontroledespesas;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

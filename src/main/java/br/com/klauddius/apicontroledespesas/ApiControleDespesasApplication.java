@@ -1,4 +1,4 @@
-package br.com.klauddius.ctrldspsas.apicontroledespesas;
+package br.com.klauddius.apicontroledespesas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
